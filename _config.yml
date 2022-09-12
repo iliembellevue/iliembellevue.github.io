@@ -1,5 +1,5 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Homepage
-
+title: Isaac Liem's Portfolio
+description: Showcasing my work experience & academic endeavors
